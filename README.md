@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Soares Nascimento</h1>
-<h3 align="center">I´m a student at the federal institute of Paraiba and I'm currently studying backend developer technologies.</h3>
+<h3 align="center">I´m a backend developer with experience in java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigosoaresnascimento&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigosoaresnascimento" /> </p>
 
